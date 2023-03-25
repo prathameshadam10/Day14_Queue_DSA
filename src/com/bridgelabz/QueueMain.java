@@ -7,6 +7,8 @@ public class QueueMain {
         queue.add(30);
         queue.add(70);
         queue.show();
+        queue.pop(56);
+        queue.show();
     }
 }
 
